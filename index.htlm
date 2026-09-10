@@ -1,1 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trémolos - JDR</title>
+</head>
 
+<body>
+
+    <h1>🎲 Trémolos</h1>
+
+    <h2>Un jeu de rôle créé avec sa communauté</h2>
+
+    <p>
+        Bienvenue sur le site officiel de Trémolos !
+    </p>
+
+    <h2>📖 Les ressources</h2>
+
+    <p>
+        Retrouvez ici le livret de règles et toutes les créations
+        de la communauté.
+    </p>
+
+    <a href="LIEN_DRIVE_A_METTRE_ICI" target="_blank">
+        📁 Accéder au dossier Trémolos
+    </a>
+
+    <h2>💬 La communauté</h2>
+
+    <p>
+        Venez discuter, proposer vos idées et partager vos créations
+        sur le forum !
+    </p>
+
+    <a href="LIEN_FORUM_A_METTRE_ICI" target="_blank">
+        💬 Accéder au forum
+    </a>
+
+    <br><br>
+
+    <a href="projet.html">
+        📜 Découvrir le projet
+    </a>
+
+</body>
+</html>
